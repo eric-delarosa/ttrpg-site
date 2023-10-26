@@ -2,6 +2,7 @@
 title: Basics of Play
 parent: Introduction
 nav_order: 4
+layout: default
 ---
 
 # Basics of Play
