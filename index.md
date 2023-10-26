@@ -1,7 +1,7 @@
 ---
 title: Eric's Roleplaying
 nav_exclude: true
-layout: default
+
 ---
 
 Welcome to Eric's Rolplaying site! Below is an excerpt from Stormchaser Roleplaying which I have contributed to and has inspired this site here as well as most of my homebrew rules. This is an homage and placeholder. 
